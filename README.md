@@ -1,1 +1,1 @@
-# spring-boot-rest-qr-code-base64
+# Spring Boot Restful API Generate QR Code as Base64 String
